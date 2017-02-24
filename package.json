@@ -1,0 +1,23 @@
+{
+  "name": "lqjs",
+  "description": "Adds some LINQ functionality for JavaScript Array",
+  "keywords": [
+    "linq"
+  ],
+  "version": "0.0.1",
+  "author": {
+    "name": "Stian Hanger",
+    "email": "pdnagilum@gmail.com",
+    "url": "https://github.com/nagilum"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nagilum/lqjs"
+  },
+  "bugs": "https://github.com/nagilum/lqjs/issues",
+  "devDependencies": {},
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
