@@ -5,7 +5,7 @@ Some LINQ functionality for JavaScript Array
 ## Installation
 
 ```
-npm install varcache
+npm install lqjs
 ```
 
 ---
